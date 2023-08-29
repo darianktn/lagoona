@@ -8,7 +8,7 @@ There are also hover effects.
 
 ## Live demo
 
-(_coming soon_)
+https://darianktn.github.io/lagoona/
 
 ## Technologies Used
 - HTML5
