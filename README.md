@@ -15,9 +15,5 @@ https://darianktn.github.io/lagoona/
 - CSS3
 - Git
 
-## Screenshots
-
-(_coming soon_)
-
 ## Contact Information
 For any message you can email me: lzarus37th@yandex.ru
